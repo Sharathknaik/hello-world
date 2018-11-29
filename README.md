@@ -2,4 +2,4 @@
 Just another repository
 
 
-About git,I am feel good at this,and we got several option in our repository
+About git,I am feel good at this,and repository is need for all fortware workers
